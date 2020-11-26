@@ -12,4 +12,5 @@ delta 1=plus_cost-average_routing_length=0
 delta 1 ºÏ¸ñ
 time_cost=2.667s
 caseNO=1
+
 larget_gap
