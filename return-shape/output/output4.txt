@@ -1,0 +1,15 @@
+7   3   8   13   32.4005
+6   5   7   12   20.3776
+5   5   7   12   16.8126
+4   5   7   12   16.1834
+3   5   7   12   16.0784
+2   5   8   11   16.5325
+1   6   7   11   16.9018
+7   34   51   83   135.287
+average_routing_length=135.287
+plus_cost=sum(cost(i))=135.287
+delta 1=plus_cost-average_routing_length=-2.84217e-014
+delta 1 合格
+length_check=135.287
+delta 2=length_check-length_cal=-0.000250537
+delta 2 合格

@@ -1,0 +1,15 @@
+7   0   0   24   6.57918
+6   0   0   24   5.68366
+5   0   0   24   4.96944
+4   0   12   12   10.8719
+3   10   14   0   26.5976
+2   0   24   0   13.0037
+1   24   0   0   25.1099
+7   34   50   84   92.8153
+average_routing_length=92.8153
+plus_cost=sum(cost(i))=92.8153
+delta 1=plus_cost-average_routing_length=-1.42109e-014
+delta 1 ºÏ¸ñ
+time_cost=1.466
+caseNO=3
+S-shape
